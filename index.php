@@ -38,7 +38,7 @@ align-items: center;
 				<img src="logo1.png" alt="" />
 			</a>
 			
-			<p class="description">Dear user, log in to access the admin area!</p>
+			<p class="description">Dear user, log to the admin area admin area!</p>
 			
 			<!-- progress bar indicator -->
 			<div class="login-progressbar-indicator">
